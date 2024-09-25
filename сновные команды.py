@@ -1,0 +1,7 @@
+bot.send_Message()
+bot.send_Text()
+bot.send_Video()
+bot.send_Photo()
+bot.send_Audio()
+bot.sent_Location()
+bot.polling()
